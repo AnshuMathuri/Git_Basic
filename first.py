@@ -4,3 +4,5 @@ b="welcome to my data science team"
 print(b)
 
 print("Anshu")
+
+str1='please like ans subscibe  to the channel'
